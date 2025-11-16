@@ -48,7 +48,8 @@ Everything works autonomously with an “Auto Mode”, and can also be controlle
 
 
 ```md
-![Indicators](../iotproject/screenshot-1.png)
+![Indicators](/screenshot-1.png)
 ![Simulation](/screenshot-2.png)
 ![Serial Output](/screenshot-3.png)
+
 
